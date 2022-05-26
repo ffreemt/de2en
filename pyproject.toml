@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "de2en"
-version = "0.1.1-alpha.0"
+version = "0.1.1-alpha.1"
 description = "pack_name descr "
 authors = ["ffreemt"]
 license = "MIT"
@@ -36,7 +36,7 @@ toml = "^0.10.2"
 poethepoet = "^0.10.0"
 
 [tool.poetry.scripts]
-"de2en" = "de2en.__main__:app"
+#"de2en" = "de2en.__main__:app"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

@@ -1,5 +1,5 @@
 """Prep __main__.py."""
-# pylint: disable=invalid-name
+# pylint: disable=invalid-name, unused-import
 from pathlib import Path
 from typing import Optional
 

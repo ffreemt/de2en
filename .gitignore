@@ -141,3 +141,5 @@ cython_debug/
 links/
 # .gitignore
 node_modules
+de2en/d2e.py
+.gitignore
