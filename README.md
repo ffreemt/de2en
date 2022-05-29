@@ -6,7 +6,10 @@ de2en and gen_cmat
 ## Install it
 
 ```shell
-pip install git+https://github.com/ffreemt/de2en
+pip install de2en
+
+# poetry add de2en
+# pip install git+https://github.com/ffreemt/de2en
 # poetry add git+https://github.com/ffreemt/de2en
 # git clone https://github.com/ffreemt/de2en && cd de2en
 ```
